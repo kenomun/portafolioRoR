@@ -8,11 +8,9 @@ Portafolio
 
 ## Funcionalidades
 
-Enumera las principales funcionalidades o características de tu proyecto.
-
-Home, sera la ista principal (en desarrollo).
-projectos , mostrara algunos de mis proyectos (en desarrollo).
-contacto, contendra un formulario para contactarme (en desarrollo
+Home, sera la vista principal (en desarrollo).
+proyectos , mostrara algunos de mis proyectos (en desarrollo).
+contacto, contendrá un formulario para contactarme (en desarrollo)
 
 ## Instalación
 
@@ -21,6 +19,7 @@ contacto, contendra un formulario para contactarme (en desarrollo
 3. Ejecuta `rails server` para iniciar el servidor de desarrollo.
 
 ## Uso
+
 
 abre el navegador en localhost:3000
 
