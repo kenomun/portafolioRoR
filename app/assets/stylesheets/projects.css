@@ -2,3 +2,17 @@
     background-color: #f00;
     border-color: #f00;
   }
+
+  .card-img-top {
+    height: 350px;
+    object-fit: cover; 
+  }
+  
+  .card-title {
+    font-size: 20px;
+  }
+  
+  .card-text {
+    font-size: 14px;
+  }
+  
