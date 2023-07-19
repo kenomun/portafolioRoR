@@ -1,24 +1,34 @@
-# README
+# Nombre de tu proyecto
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Portafolio 
+## Requisitos previos
 
-Things you may want to cover:
+- Ruby 2.7.2
+- Rails 7.0.6
 
-* Ruby version
+## Funcionalidades
 
-* System dependencies
+Enumera las principales funcionalidades o características de tu proyecto.
 
-* Configuration
+Home, sera la ista principal (en desarrollo).
+projectos , mostrara algunos de mis proyectos (en desarrollo).
+contacto, contendra un formulario para contactarme (en desarrollo
 
-* Database creation
+## Instalación
 
-* Database initialization
+1. Clona este repositorio.
+2. Ejecuta `bundle install` para instalar las gemas necesarias.
+3. Ejecuta `rails server` para iniciar el servidor de desarrollo.
 
-* How to run the test suite
+## Uso
 
-* Services (job queues, cache servers, search engines, etc.)
+abre el navegador en localhost:3000
 
-* Deployment instructions
+## Contacto
 
-* ...
+eugenio.mun.f@gmail.com
+
+
+
+
+
